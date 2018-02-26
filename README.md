@@ -1,4 +1,4 @@
-# SpringBootWithJDBCTemplate
+# SpringBootWithBatchTemplate
 
 Simple spring boot with batch template application.
 
